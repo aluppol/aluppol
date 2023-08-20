@@ -1,8 +1,7 @@
 Hi there 👋,
 # I'm Albert Luppol
 
-Software engineer with 3+ years of hands-on experience in full-cycle web services development, optimization, maintenance, and troubleshooting. 
+Software Engineer with 5+ years in web services design, development, and optimization. My mechatronics background enhances my approach in areas like robotics and smart control systems. With experience from AI-driven solutions to CRM system development, I integrate software with complex control architectures, streamlining tech-driven solutions. 
 --
-Let's build software that will benefit our society - will make this planet one step safer, cleaner, comfortable, or will help people connect with others.
 
-You can reach me by email albert.y.luppol@gmail.com
+You can reach me by email albert.y.luppol@gmail.com or linkedin - www.linkedin.com/in/aluppol
